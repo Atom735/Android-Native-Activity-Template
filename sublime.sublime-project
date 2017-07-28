@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "F:/ANDROID/Android_SDK/ndk-bundle/sysroot/usr/include",
+			"name": "ANDROID INCLUDES"
+		},
+		{
+			"path": "F:/ANDROID/Android_SDK/ndk-bundle/sources/android/native_app_glue",
+			"name": "ANDROID native_app_glue"
+		},
+	]
+}

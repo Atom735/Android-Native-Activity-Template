@@ -1,0 +1,1 @@
+CALL "%ANDROID_SDK_ROOT%\platform-tools\adb.exe" logcat >log.txt
